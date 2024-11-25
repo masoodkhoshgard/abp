@@ -2,6 +2,35 @@
 
 This document contains **brief release notes** for each ABP Studio release. Release notes only include **major features** and **visible enhancements**. Therefore, they don't include all the development done in the related version. 
 
+## 0.9.11 (2024-11-21)
+
+* Fixed the extension loading problem occured in v0.9.9 & v0.9.10.
+
+## 0.9.10 (2024-11-21)
+
+> Recommended to use v0.9.11+ for .NET 9.
+
+* Added shortcut for Build & Start operation (CTRL + Click)
+* Fixed extension loading loop problem in v0.9.9
+* Fixed MAUI template for android
+
+## 0.9.9 (2024-11-21)
+
+> Recommended to use v0.9.11+ for .NET 9.
+
+* Upgraded templates to .NET 9
+* Fixed blazor wasm bundle problem in microservice template
+
+## 0.9.8 (2024-11-20)
+
+* Upgraded templates to version `8.3.4`
+
+## 0.9.7 (2024-11-19)
+
+* Added `AppearanceStyles` component to blazor server templates
+* Fixed module import window
+* Made several enhancements to the existing features
+
 ## 0.9.6 (2024-11-15)
 
 * Added missing imports to templates
